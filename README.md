@@ -14,7 +14,7 @@ The samples provided with the keyword **"orig_qid"** in the counterfactual datas
 - predicted tokens: Words except "_" indicate token rationales from the original evidence extracted by CURE
 - predicted tokens ids: Location of token rationales extracted by CURE in the original evidence
 - sentence_rationales: Sentence rationales extracted by CURE
-- entity_triggers: Corresponding to T' in the paper
+- entity_triggers: Corresponding to _T'_ in the paper
 - constraints_2: Corresponding to the disjunctive constraints *CONS* in the paper
 
 # Code
