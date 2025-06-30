@@ -17,8 +17,6 @@ The samples provided with the keyword **"orig_qid"** in the counterfactual datas
 - entity_triggers: Corresponding to _T'_ in the paper
 - constraints_2: Corresponding to the disjunctive constraints *CONS* in the paper
 
-# Code
-The code will be released soon.
 
 # Citation
 Please cite our paper if you use RACE or datasets we provided in your work:
